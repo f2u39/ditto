@@ -47,4 +47,4 @@ func minMax(array: [Int]) -> (min: int, max: Int) {
 
 ## References
 
-- [the swift programming language - Functions](https://docs.swift.org/swift-book/LanguageGuide/Functions.html)
+- [The Swift Programming Language - Functions](https://docs.swift.org/swift-book/LanguageGuide/Functions.html)
