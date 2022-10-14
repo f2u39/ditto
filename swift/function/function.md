@@ -20,9 +20,8 @@ func greet(name: String) -> String {
 }
 ```
 
-compare to Go
-
 ``` go
+// compare to Go
 func greet(name string) string {
     return "Hello " + name + "!" 
 }

@@ -1,13 +1,12 @@
 # Ditto
 
-Gonna learn something new.
-
 ## Status
 
-| Date | Status |
-| --- | --- |
-| Sep 20, 2022 | ⚪️ |
-| Sep 20, 2022 | 🟢 |
+| Date | Status | Desc |
+| --- | --- | --- |
+| Sep 20, 2022 | ⚪️ | Study memo |
+| Sep 20, 2022 | 🟢 | In progress |
 
 ## List
+
 - [Swift](https://github.com/f2u39/ditto/tree/master/swift)
