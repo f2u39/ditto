@@ -4,7 +4,7 @@
 
 | Date | Status | Desc |
 | --- | --- | --- |
-| Sep 20, 2022 | ⚪️ | Study memo |
+| Sep 20, 2022 | ⚪️ | Take memo |
 | Sep 20, 2022 | 🟢 | In progress |
 
 ## List
