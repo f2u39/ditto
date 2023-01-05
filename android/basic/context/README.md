@@ -1,0 +1,3 @@
+# Context
+
+## requireActivity() vs requireContext()
