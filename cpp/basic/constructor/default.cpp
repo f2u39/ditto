@@ -1,5 +1,4 @@
 #include <iostream>
-// Should not use using namespace std
 
 class Console {
     public:
