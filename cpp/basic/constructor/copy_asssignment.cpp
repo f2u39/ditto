@@ -1,0 +1,2 @@
+// [Copy assignment](https://cplusplus.com/doc/tutorial/classes2/#default_constructor)
+// Objects are not only copied on construction, when they are initialized: They can also be copied on any assignment operation.
