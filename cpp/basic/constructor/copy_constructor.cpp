@@ -4,7 +4,7 @@
 
 // Console::Console (const Console&);
 
-#include<iostream>
+#include <iostream>
 
 class Console {
     std::string* name;
